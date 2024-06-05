@@ -3,9 +3,9 @@
 Meu nome é Maria Isabella
 
 Estou estudando no Alura;
--Desenvolvendo a linguagem Javascript;
--Utilizo este espaço para organização dos projetos.
+Desenvolvendo a linguagem Javascript;
+Utilizo este espaço para organização dos projetos.
 
 ### Você pode entrar em contato comigo:
--0000078285238SP@al.educacao.sp.gov.br
--@isabellamaria_32
+0000078285238SP@al.educacao.sp.gov.br
+/@isabellamaria_32
