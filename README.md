@@ -2,7 +2,7 @@
 
 Meu nome é Maria Isabella
 
--Estou estudando no Alura;
+Estou estudando no Alura;
 -Desenvolvendo a linguagem Javascript;
 -Utilizo este espaço para organização dos projetos.
 
