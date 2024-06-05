@@ -10,5 +10,5 @@ Utilizo este espaço para organização dos projetos.
 0000078285238SP@al.educacao.sp.gov.br
 /@isabellamaria_32
 
-!.[].(https://media.tenor.com/kv7d3oWNKgYAAAAM/dog-pomeranian.gif)
+!.[](https://media.tenor.com/kv7d3oWNKgYAAAAM/dog-pomeranian.gif)
 
